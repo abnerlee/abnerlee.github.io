@@ -55,7 +55,7 @@ As the article is discussed above, Markdown editors should use better syntax hig
 
 However, syntax highlight has its limitation on hiding or reducing noisy and useless information behind the real valuable content readers would care. When it goes to image, take `![logo](http://typora.io/img/favicon-128x128.png)` for example, no matter how great the sytax highlight looks like, users cannot accquire usingful information for the text source, instead, we should show the image content to user since that’s what user really care. Not to mention math expressions written by LaTeX, too difficult to tell what it looks like as a formula from highlighted source at first glance. 
 
-{% include image.html img="/assets/un-readble-markdown.png" class="shadow" style="width:500px;" alt="css-theme" caption="Use Css to stylize typora editor" %}
+{% include image.html img="/assets/un-readble-markdown.png" class="shadow" style="width:500px;" alt="css-theme" caption="Not so readable even when syntax highlight is enabled" %}
 
 
 In those case, a preview window or preview mode seems to be a must. However, I believe there should be a more lightweight, seamless and distraction-free solution to format, emphasis and display the meaningful content, as a reader rather than writer want, behind its Markdown source.  An even better syntax highlighting or decorating engine is what [typora][] would offer.
