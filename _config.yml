@@ -1,0 +1,39 @@
+# Site settings
+title:       Abner's Blog
+email:       ilchenearly@gmail.com
+author:      Abner Lee
+description: "Where I write stuff"
+baseurl:     ""
+url:         "http://abnerlee.github.io/"
+
+# Google analytics
+google_analytics: UA-60625113-1
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: abnerlee
+
+# Social icons
+show_social_icons: false
+github_username: abnerlee
+stackoverflow_id:
+twitter_username: leeabner
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     kramdown
+kramdown:
+  input: GFM
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
