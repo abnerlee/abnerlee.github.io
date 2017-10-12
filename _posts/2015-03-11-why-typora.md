@@ -22,7 +22,7 @@ There are more reasons for me to hate preview window:
 
 #### Seperated views for source and preview means there are duplicate information on my screen.
 
-Many editors, such as [Mou](http://25.io/mou/), split their window into source section and preview section. It might be acceptable if I was using iMac with a bigger screen, but on my macbook, I cannot accept that, only half of my screen displays useful information (for the other half just displays duplicated text content) text input is only allowed in a narrow textarea. It is even wrose when I want to use half of my litter screen to read documents and half of my screen to take notes via markdown — I will only have 1/4 area for writing with preview feature turned on. 
+Many editors, such as [Mou](http://25.io/mou/), split their window into source section and preview section. It might be acceptable if I was using iMac with a bigger screen, but on my macbook, I cannot accept that, only half of my screen displays useful information (for the other half just displays duplicated text content) text input is only allowed in a narrow textarea. It is even wrose when I want to use half of my little screen to read documents and half of my screen to take notes via markdown — I will only have 1/4 area for writing with preview feature turned on. 
 
 Then think about a note-taking app like Evernote. Many person wants it to support Markdown, but now it has 3 sections in this main window, thus if it supports markdown, it may end up with 4 sections in its main window since a preview section will be provided to user. Therefore, I don't really want a preview view/window on my macbook.
 
